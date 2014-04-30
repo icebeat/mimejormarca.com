@@ -90,5 +90,5 @@ var Parallax = {
 };
 
 $(window).on('load', function () {
-  Parallax.init('.parallax');
+  // Parallax.init('.parallax');
 });

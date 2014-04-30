@@ -59,8 +59,8 @@ section:before, header {
 section:before {
   content: '';
   height: 100%;
-  width: 1px;
   pointer-events: none;
+  font: 0/0 a;
 }
 
 header {
